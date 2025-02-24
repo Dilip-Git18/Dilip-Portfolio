@@ -717,3 +717,31 @@ footer p {
     font-size: 20px;
     color: #333;
 }
+
+#resume {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+#resume h2 {
+    margin-bottom: 20px; /* Optional: space between heading and button */
+}
+
+#resume .cta-btn {
+    display: inline-block;
+    background-color: #2b2d42; /* Ensures button stays inline with its text */
+}
+
+#resume .cta-btn:hover {
+    transform: translateY(-5px); /* Slight upward movement on hover */
+    background-color: #000805dd; /* Darken button on hover */
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2); /* Enhanced shadow on hover */
+}
+
+#resume .cta-btn:active {
+    transform: translateY(2px); /* Button slightly moves down on click */
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1); /* Smaller shadow when clicked */
+}
