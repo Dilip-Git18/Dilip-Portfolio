@@ -139,13 +139,13 @@ header nav ul li a:hover {
 /* Home Section */
 .home {
     position: relative;
-    color: rgb(50, 91, 56);
+    color: rgb(181, 185, 181);
     text-align: center;
     padding: 6rem 2rem;
     background-size: cover;
     overflow: hidden;
 }
-#background-video {
+#background-photo {
     position: absolute;
     top: 0;
     left: 0;
@@ -167,7 +167,7 @@ header nav ul li a:hover {
 }
 
 .cta-btn {
-    background-color: #275b32;
+    background-color: #69b479;
     color: white;
     padding: 0.8rem 1.5rem;
     border: none;
@@ -180,7 +180,7 @@ header nav ul li a:hover {
 }
 
 .cta-btn:hover {
-    background-color: #1a4d29;
+    background-color: #559869;
     transform: scale(1.05);
 }
 
