@@ -718,6 +718,17 @@ footer p {
     color: #333;
 }
 
+#intro-video {
+    text-align: center;
+    padding: 40px;
+}
+
+.intro-container iframe {
+    max-width: 100%;
+    height: auto;
+}
+
+
 #resume {
     text-align: center;
     display: flex;
