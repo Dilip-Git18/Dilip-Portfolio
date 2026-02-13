@@ -37,7 +37,6 @@ You can view my portfolio by visiting the live site:
 
 - **LinkedIn**: [Dilip Kumar](https://www.linkedin.com/in/dilip-kumar-0810exp/)
 - **Email**: [dilip18109mn@gmail.com](mailto:dilip18109mn@gmail.com)
-- **Personal Blog**: [Instagram](https://www.instagram.com/dilip_726/?hl=en)
 
 ---
 
