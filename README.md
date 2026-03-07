@@ -1,6 +1,6 @@
 # My Personal Portfolio
 
-Welcome to my personal portfolio project! 🚀 This is a showcase of my work, skills, and experience. It serves as a digital resume, allowing potential employers, collaborators, or anyone interested in my work to learn more about me and explore my projects.
+Welcome to my personal portfolio! 🚀 This is a showcase of my work, skills, and experience. It serves as a digital resume, allowing potential employers, collaborators, or anyone interested in my work to learn more about me and explore my projects.
 
 ## About
 
@@ -33,10 +33,6 @@ Here are the key features of my portfolio:
 You can view my portfolio by visiting the live site:  
 [Live Portfolio](https://dilip-portfolio.onrender.com)
 
-## How to Reach Me
-
-- **LinkedIn**: [Dilip Kumar](https://www.linkedin.com/in/dilip-kumar-0810exp/)
-- **Email**: [dilip18109mn@gmail.com](mailto:dilip18109mn@gmail.com)
 
 ---
 
