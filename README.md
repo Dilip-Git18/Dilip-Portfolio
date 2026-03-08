@@ -26,7 +26,7 @@ Here are the key features of my portfolio:
 - **Responsive Design**: The portfolio adapts to different screen sizes and devices.
 - **Interactive Sections**: Hover effects, animations, and smooth transitions for a better user experience.
 - **Project Showcases**: Each project in the portfolio includes detailed descriptions, technologies used, and links to live demos or repositories.
-- **Contact Form**: A form to send direct messages (if implemented).
+- **Contact Form**: A form to send direct messages.
 
 ## How to View
 
