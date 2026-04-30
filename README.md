@@ -31,7 +31,7 @@ Here are the key features of my portfolio:
 ## How to View
 
 You can view my portfolio by visiting the live site:  
-[Live Portfolio](https://dilip-portfolio.onrender.com)
+[Live Portfolio](https://dilipk.me)
 
 
 ---
